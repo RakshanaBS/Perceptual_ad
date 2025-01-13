@@ -1,10 +1,6 @@
 # Perceptual AdEvade: Training and Evading YOLOv5-Based Ad Blocker
 
-Nagharjun M - nm4074
 
-Rakshana BS - rb5118
-
-Avinash V - av3134
 
 ## Overview
 AdEvade is a project focused on training a YOLOv5-based ad blocker and exploring techniques for evading detection. This includes altering test data with various ad attack methods and poisoning the training data to reduce detection efficacy.
